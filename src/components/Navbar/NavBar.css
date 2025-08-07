@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    /* background: #ccc; */
+    list-style: none;
+    top:0;
+    position: fixed;
+    z-index: 9;
+    left: 0px;
+}
+.nav li{
+    padding: 20px;
+    display: inline-block;
+    margin:20px 5px;
+    color: #fff;
+
+}
+.logo{
+    width: 250px;
+    padding: 20px;
+}
+.dark-nav{
+
+    background: #000;
+}

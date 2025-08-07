@@ -1,0 +1,14 @@
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;;
+
+}
+.btn.darkbtn{
+    background: #000;
+    color: #fff;
+}
+.campus{
+    text-align: center;
+}
